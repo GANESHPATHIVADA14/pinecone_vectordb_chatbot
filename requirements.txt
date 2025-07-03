@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+nest-asyncio
+llama-index
+llama-index-embeddings-gemini
+llama-index-vector-stores-pinecone
+pinecone-client[grpc]
+llama-index-llms-gemini
